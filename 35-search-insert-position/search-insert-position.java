@@ -9,6 +9,6 @@ class Solution {
             else if(target>arr[mid]) left=mid+1;
             else right=mid;
         }
-        return left;
+        return right;
     }
 }
