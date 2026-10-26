@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 14
+**Total problem folders:** 15
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -71,6 +71,7 @@ Explore the problems organized in this repository.
 - [Search Insert Position](./35-search-insert-position)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
 - [Sqrtx](./69-sqrtx)
+- [Climbing Stairs](./70-climbing-stairs)
 - [Intersection Of Two Sorted Arrays](./706-intersection-of-two-sorted-arrays)
 - [Binary Search](./792-binary-search)
 - [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)
@@ -80,9 +81,9 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`20f2368`](https://github.com/Chakaliprakash/Dsa_Java/commit/20f23683a761f4a8d6cb7de3a4e01326fc6dcc34)
-- **Message:** Update README.md
-- **Date:** 2026-10-26T06:31:20+05:30
+- **Commit:** [`88ee44d`](https://github.com/Chakaliprakash/Dsa_Java/commit/88ee44d9558ce664340dd90889424d6359b202b5)
+- **Message:** Time: 0 ms (100.00%) \| Memory: 41.6 MB (92.92%) - LeetSync
+- **Date:** 2026-10-26T06:36:47+05:30
 
 <!-- AUTO-README:END -->
 
