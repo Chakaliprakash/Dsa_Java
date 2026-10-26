@@ -59,11 +59,12 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 15
+**Total problem folders:** 16
 
 <!-- Problem links are generated from folders containing Java files. -->
 
 - [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)
+- [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
@@ -81,9 +82,9 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`6e0e3e7`](https://github.com/Chakaliprakash/Dsa_Java/commit/6e0e3e7f96a2c2e59f8affbbdd6dcc812a1bb6b0)
-- **Message:** Update GitHub Actions workflow for README updates
-- **Date:** 2026-10-26T06:39:28+05:30
+- **Commit:** [`cae8d55`](https://github.com/Chakaliprakash/Dsa_Java/commit/cae8d557975c26d2360c9909d2e5f5f84d8d3eb0)
+- **Message:** Time: 2 ms (48.41%) \| Memory: 93.8 MB (95.15%) - LeetSync
+- **Date:** 2026-10-26T07:29:31+05:30
 
 <!-- AUTO-README:END -->
 
