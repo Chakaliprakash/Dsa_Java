@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 16
+**Total problem folders:** 17
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -67,6 +67,7 @@ Explore the problems organized in this repository.
 - [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
+- [Kth Missing Positive Number](./1646-kth-missing-positive-number)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
@@ -82,9 +83,9 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`cae8d55`](https://github.com/Chakaliprakash/Dsa_Java/commit/cae8d557975c26d2360c9909d2e5f5f84d8d3eb0)
-- **Message:** Time: 2 ms (48.41%) \| Memory: 93.8 MB (95.15%) - LeetSync
-- **Date:** 2026-10-26T07:29:31+05:30
+- **Commit:** [`e8aeac3`](https://github.com/Chakaliprakash/Dsa_Java/commit/e8aeac36718492c0eedd8067103e58bb4cebef6a)
+- **Message:** Time: 0 ms (100.00%) \| Memory: 44.1 MB (90.51%) - LeetSync
+- **Date:** 2026-10-26T09:57:02+05:30
 
 <!-- AUTO-README:END -->
 
