@@ -128,15 +128,8 @@ For each problem, I aim to:
 
 </div>
 
----
 
-## ◈ GitHub Dashboard
 
-<div align="center">
-
-<a href="https://github.com/Chakaliprakash">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chakaliprakash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
 
 <a href="https://github.com/Chakaliprakash">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakaliprakash&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
@@ -169,16 +162,6 @@ For each problem, I aim to:
 </div>
 
 ---
-
-## ◈ Connect
-
-<div align="center">
-
-<a href="https://github.com/Chakaliprakash">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
-</a>
-
-<br/><br/>
 
 **Thanks for visiting my Java DSA Lab!**
 
