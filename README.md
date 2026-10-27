@@ -19,9 +19,9 @@
 
 <br/><br/>
 
-**A practical journey through Data Structures and Algorithms using Java.**
+**Java solutions for Data Structures and Algorithms practice.**
 
-*Learn the logic. Understand the pattern. Optimize the solution.*
+*Practice problem solving, learn common patterns, and improve efficiency.*
 
 <br/>
 
@@ -37,9 +37,9 @@
 
 ## ◈ About This Repository
 
-Welcome to my **Java DSA Lab** — a growing collection of coding problems, algorithmic techniques, and problem-solving practice.
+This repository contains Java solutions for data structures, algorithms, and coding practice.
 
-I'm building a strong foundation in DSA by understanding how solutions work, why they work, and how to improve their efficiency.
+Each solution helps me practice problem-solving techniques and analyze time and space complexity.
 
 <div align="center">
 
