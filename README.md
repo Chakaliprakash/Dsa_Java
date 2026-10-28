@@ -88,6 +88,7 @@ Explore the problems organized in this repository.
 
 - **Commit:** [`b6cf822`](https://github.com/Chakaliprakash/Dsa_Java/commit/b6cf82207ad68f8678590f5bc3d75beebab7f8e7)
 - **Message:** Time: 0 ms (100.00%) \| Memory: 42 MB (96.62%) - LeetSync
+- **Question:** Base 7
 - **Date:** 2026-10-28T07:28:42+05:30
 
 <!-- AUTO-README:END -->
