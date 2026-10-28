@@ -84,9 +84,9 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`604a230`](https://github.com/Chakaliprakash/Dsa_Java/commit/604a2300781c3eeab2765a27780d2ad50141d388)
-- **Message:** Time: 1 ms (61.63%) \| Memory: 42.3 MB (96.66%) - LeetSync
-- **Date:** 2026-10-27T06:51:06+05:30
+- **Commit:** [`e87034a`](https://github.com/Chakaliprakash/Dsa_Java/commit/e87034a73ddfe8e97ae7768cb24f3523721ab3a0)
+- **Message:** Remove contribution activity from README
+- **Date:** 2026-10-27T07:26:23+05:30
 
 <!-- AUTO-README:END -->
 
