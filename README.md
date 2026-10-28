@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 19
+**Total problem folders:** 20
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -73,6 +73,7 @@ Explore the problems organized in this repository.
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
 - [Split Array Largest Sum](./410-split-array-largest-sum)
+- [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
 - [Sqrtx](./69-sqrtx)
 - [Climbing Stairs](./70-climbing-stairs)
@@ -85,9 +86,9 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`971307c`](https://github.com/Chakaliprakash/Dsa_Java/commit/971307cd4b66723962341c7c0c9a0dc1249c6311)
-- **Message:** Time: 14 ms (91.34%) \| Memory: 108.6 MB (20.19%) - LeetSync
-- **Date:** 2026-10-28T07:27:29+05:30
+- **Commit:** [`b6cf822`](https://github.com/Chakaliprakash/Dsa_Java/commit/b6cf82207ad68f8678590f5bc3d75beebab7f8e7)
+- **Message:** Time: 0 ms (100.00%) \| Memory: 42 MB (96.62%) - LeetSync
+- **Date:** 2026-10-28T07:28:42+05:30
 
 <!-- AUTO-README:END -->
 
