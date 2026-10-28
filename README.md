@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 18
+**Total problem folders:** 19
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -68,6 +68,7 @@ Explore the problems organized in this repository.
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
 - [Kth Missing Positive Number](./1646-kth-missing-positive-number)
+- [Contains Duplicate](./217-contains-duplicate)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
@@ -84,9 +85,9 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`e87034a`](https://github.com/Chakaliprakash/Dsa_Java/commit/e87034a73ddfe8e97ae7768cb24f3523721ab3a0)
-- **Message:** Remove contribution activity from README
-- **Date:** 2026-10-27T07:26:23+05:30
+- **Commit:** [`971307c`](https://github.com/Chakaliprakash/Dsa_Java/commit/971307cd4b66723962341c7c0c9a0dc1249c6311)
+- **Message:** Time: 14 ms (91.34%) \| Memory: 108.6 MB (20.19%) - LeetSync
+- **Date:** 2026-10-28T07:27:29+05:30
 
 <!-- AUTO-README:END -->
 
