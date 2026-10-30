@@ -1,4 +1,3 @@
-
 from pathlib import Path
 from urllib.parse import quote
 import os
@@ -45,7 +44,7 @@ def contains_java(folder):
 
 
 def display_name(folder_name):
-    name = re.sub(r"^\d+-", "", folder_name)
+    name = re.sub(r"^\\d+-", "", folder_name)
     return name.replace("-", " ").replace("_", " ").title()
 
 
@@ -58,8 +57,11 @@ def get_problem_folders():
         and folder.name not in IGNORED_DIRS
         and contains_java(folder)
     ]
-
     return sorted(folders, key=lambda folder: folder.name.lower())
+
+
+def get_latest_problem_commit():
+    return git_output("log", "-1", "--format=%H", "--", "*.java")
 
 
 def generate_section():
@@ -86,25 +88,45 @@ def generate_section():
     else:
         lines.append("_No Java problem folders found yet._")
 
-    commit_hash = git_output("rev-parse", "--short", "HEAD")
-    commit_subject = git_output(
-        "log", "-1", "--format=%s"
-    ).replace("|", "\\|").replace("\n", " ")
+    problem_commit = get_latest_problem_commit()
+    changed_java_files = git_output(
+        "diff-tree", "--no-commit-id", "--name-only", "-r",
+        problem_commit, "--", "*.java"
+    ).splitlines()
 
-    commit_date = git_output("log", "-1", "--format=%cI")
-    full_hash = git_output("rev-parse", "HEAD")
+    problem_folder = None
+    for file_name in changed_java_files:
+        parts = Path(file_name).parts
+        if len(parts) > 1 and (ROOT / parts[0]).is_dir():
+            problem_folder = parts[0]
+            break
+
+    short_hash = git_output("rev-parse", "--short", problem_commit)
+    commit_subject = git_output(
+        "show", "-s", "--format=%s", problem_commit
+    ).replace("|", "\\|").replace("\\n", " ")
+    commit_date = git_output("show", "-s", "--format=%cI", problem_commit)
 
     lines.extend([
         "",
         "## 🔄 Latest Commit",
         "",
-        f"- **Commit:** [`{commit_hash}`]"
-        f"(https://github.com/{repository}/commit/{full_hash})",
+        f"- **Commit:** [`{short_hash}`](https://github.com/{repository}/commit/{problem_commit})",
+    ])
+
+    if problem_folder:
+        problem_name = display_name(problem_folder)
+        folder_url = quote(problem_folder, safe="-_.")
+        lines.append(
+            f"- **Problem:** [{problem_name}](./{folder_url})"
+        )
+
+    lines.extend([
         f"- **Message:** {commit_subject}",
         f"- **Date:** {commit_date}",
     ])
 
-    return "\n".join(lines)
+    return "\\n".join(lines)
 
 
 def main():
@@ -125,13 +147,8 @@ def main():
     if start_index > end_index:
         raise ValueError("README markers are in the wrong order.")
 
-    generated = "\n\n" + generate_section() + "\n\n"
-
-    updated = (
-        content[:start_index]
-        + generated
-        + content[end_index:]
-    )
+    generated = "\\n\\n" + generate_section() + "\\n\\n"
+    updated = content[:start_index] + generated + content[end_index:]
 
     if updated != content:
         README.write_text(updated, encoding="utf-8")
