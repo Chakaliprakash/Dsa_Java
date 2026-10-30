@@ -11,24 +11,14 @@ START = "<!-- AUTO-README:START -->"
 END = "<!-- AUTO-README:END -->"
 
 IGNORED_DIRS = {
-    ".git",
-    ".github",
-    ".idea",
-    "node_modules",
-    "target",
-    "build",
-    "out",
-    "dist",
-    "__pycache__",
+    ".git", ".github", ".idea", "node_modules", "target",
+    "build", "out", "dist", "__pycache__",
 }
 
 
 def git_output(*args):
     return subprocess.check_output(
-        ["git", *args],
-        cwd=ROOT,
-        text=True,
-        stderr=subprocess.DEVNULL,
+        ["git", *args], cwd=ROOT, text=True, stderr=subprocess.DEVNULL
     ).strip()
 
 
@@ -50,8 +40,7 @@ def display_name(folder_name):
 
 def get_problem_folders():
     folders = [
-        folder
-        for folder in ROOT.iterdir()
+        folder for folder in ROOT.iterdir()
         if folder.is_dir()
         and not folder.name.startswith(".")
         and folder.name not in IGNORED_DIRS
@@ -66,10 +55,7 @@ def get_latest_problem_commit():
 
 def generate_section():
     folders = get_problem_folders()
-    repository = os.environ.get(
-        "GITHUB_REPOSITORY",
-        "Chakaliprakash/Dsa_Java",
-    )
+    repository = os.environ.get("GITHUB_REPOSITORY", "Chakaliprakash/Dsa_Java")
 
     lines = [
         "## 📚 Automatically Updated Problems",
@@ -104,7 +90,7 @@ def generate_section():
     short_hash = git_output("rev-parse", "--short", problem_commit)
     commit_subject = git_output(
         "show", "-s", "--format=%s", problem_commit
-    ).replace("|", "\\|").replace("\\n", " ")
+    ).replace("|", "\\|").replace(chr(10), " ")
     commit_date = git_output("show", "-s", "--format=%cI", problem_commit)
 
     lines.extend([
@@ -117,16 +103,14 @@ def generate_section():
     if problem_folder:
         problem_name = display_name(problem_folder)
         folder_url = quote(problem_folder, safe="-_.")
-        lines.append(
-            f"- **Problem:** [{problem_name}](./{folder_url})"
-        )
+        lines.append(f"- **Problem:** [{problem_name}](./{folder_url})")
 
     lines.extend([
         f"- **Message:** {commit_subject}",
         f"- **Date:** {commit_date}",
     ])
 
-    return "\\n".join(lines)
+    return chr(10).join(lines)
 
 
 def main():
@@ -147,7 +131,7 @@ def main():
     if start_index > end_index:
         raise ValueError("README markers are in the wrong order.")
 
-    generated = "\\n\\n" + generate_section() + "\\n\\n"
+    generated = chr(10) * 2 + generate_section() + chr(10) * 2
     updated = content[:start_index] + generated + content[end_index:]
 
     if updated != content:
