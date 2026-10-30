@@ -55,7 +55,44 @@ Each solution helps me practice problem-solving techniques and analyze time and 
 
 Explore the problems organized in this repository.
 
-<!-- AUTO-README:START -->\n\n## 📚 Automatically Updated Problems\n\n**Total problem folders:** 21\n\n<!-- Problem links are generated from folders containing Java files. -->\n\n- [1056 Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)\n- [121 Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)\n- [128 Longest Consecutive Sequence](./128-longest-consecutive-sequence)\n- [162 Find Peak Element](./162-find-peak-element)\n- [1646 Kth Missing Positive Number](./1646-kth-missing-positive-number)\n- [217 Contains Duplicate](./217-contains-duplicate)\n- [33 Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)\n- [34 Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)\n- [35 Search Insert Position](./35-search-insert-position)\n- [4 Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)\n- [410 Split Array Largest Sum](./410-split-array-largest-sum)\n- [504 Base 7](./504-base-7)\n- [540 Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)\n- [69 Sqrtx](./69-sqrtx)\n- [70 Climbing Stairs](./70-climbing-stairs)\n- [706 Intersection Of Two Sorted Arrays](./706-intersection-of-two-sorted-arrays)\n- [792 Binary Search](./792-binary-search)\n- [81 Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)\n- [88 Merge Sorted Array](./88-merge-sorted-array)\n- [907 Koko Eating Bananas](./907-koko-eating-bananas)\n- [Tuf A2Z](./TUF-A2Z)\n\n## 🔄 Latest Commit\n\n- **Commit:** [`0730909`](https://github.com/Chakaliprakash/Dsa_Java/commit/073090908b149f3eb2cf2b95446c871b27ea6b89)\n- **Problem:** [4 Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)\n- **Message:** Time: 3 ms (40.25%) \| Memory: 48.5 MB (77.49%) - LeetSync\n- **Date:** 2026-10-30T06:34:39+05:30\n\n<!-- AUTO-README:END -->
+<!-- AUTO-README:START -->
+
+## 📚 Automatically Updated Problems
+
+**Total problem folders:** 21
+
+<!-- Problem links are generated from folders containing Java files. -->
+
+- [1056 Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)
+- [121 Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)
+- [128 Longest Consecutive Sequence](./128-longest-consecutive-sequence)
+- [162 Find Peak Element](./162-find-peak-element)
+- [1646 Kth Missing Positive Number](./1646-kth-missing-positive-number)
+- [217 Contains Duplicate](./217-contains-duplicate)
+- [33 Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
+- [34 Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
+- [35 Search Insert Position](./35-search-insert-position)
+- [4 Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
+- [410 Split Array Largest Sum](./410-split-array-largest-sum)
+- [504 Base 7](./504-base-7)
+- [540 Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
+- [69 Sqrtx](./69-sqrtx)
+- [70 Climbing Stairs](./70-climbing-stairs)
+- [706 Intersection Of Two Sorted Arrays](./706-intersection-of-two-sorted-arrays)
+- [792 Binary Search](./792-binary-search)
+- [81 Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)
+- [88 Merge Sorted Array](./88-merge-sorted-array)
+- [907 Koko Eating Bananas](./907-koko-eating-bananas)
+- [Tuf A2Z](./TUF-A2Z)
+
+## 🔄 Latest Commit
+
+- **Commit:** [`0730909`](https://github.com/Chakaliprakash/Dsa_Java/commit/073090908b149f3eb2cf2b95446c871b27ea6b89)
+- **Problem:** [4 Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
+- **Message:** Time: 3 ms (40.25%) \| Memory: 48.5 MB (77.49%) - LeetSync
+- **Date:** 2026-10-30T06:34:39+05:30
+
+<!-- AUTO-README:END -->
 
 ---
 
