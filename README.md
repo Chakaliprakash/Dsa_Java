@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 20
+**Total problem folders:** 21
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -72,6 +72,7 @@ Explore the problems organized in this repository.
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
+- [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
 - [Split Array Largest Sum](./410-split-array-largest-sum)
 - [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
@@ -86,10 +87,9 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`b6cf822`](https://github.com/Chakaliprakash/Dsa_Java/commit/b6cf82207ad68f8678590f5bc3d75beebab7f8e7)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 42 MB (96.62%) - LeetSync
-- **Question:** Base 7
-- **Date:** 2026-10-28T07:28:42+05:30
+- **Commit:** [`0730909`](https://github.com/Chakaliprakash/Dsa_Java/commit/073090908b149f3eb2cf2b95446c871b27ea6b89)
+- **Message:** Time: 3 ms (40.25%) \| Memory: 48.5 MB (77.49%) - LeetSync
+- **Date:** 2026-10-30T06:34:39+05:30
 
 <!-- AUTO-README:END -->
 
