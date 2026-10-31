@@ -141,7 +141,7 @@ For each problem, I aim to:
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Chakaliprakash&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+<img src="./repo-streak.svg" width="100%" alt="Dsa_Java repository-specific commit streak"/>
 
 </div>
 
