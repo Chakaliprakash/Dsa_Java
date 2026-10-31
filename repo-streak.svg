@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
+<title id="title">Dsa_Java repository commit streak</title>
+<desc id="desc">10 active days, current streak 2 days, longest streak 3 days. Latest activity: 31 Oct 2026.</desc>
+<rect width="760" height="230" rx="14" fill="#1a1b27"/>
+<text x="34" y="38" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">DSA_JAVA REPOSITORY STREAK</text>
+<line x1="253" y1="65" x2="253" y2="175" stroke="#565a73" stroke-width="1"/>
+<line x1="507" y1="65" x2="507" y2="175" stroke="#565a73" stroke-width="1"/>
+<g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">
+  <text x="126" y="112" fill="#7aa2f7" font-size="43" font-weight="700">10</text>
+  <text x="126" y="145" fill="#c0caf5" font-size="17">Active Days</text>
+  <text x="380" y="112" fill="#bb9af7" font-size="43" font-weight="700">2</text>
+  <text x="380" y="145" fill="#c0caf5" font-size="17">Current Streak</text>
+  <text x="634" y="112" fill="#7aa2f7" font-size="43" font-weight="700">3</text>
+  <text x="634" y="145" fill="#c0caf5" font-size="17">Longest Streak</text>
+</g>
+<text x="380" y="195" fill="#73daca" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">Latest repository activity: 31 Oct 2026 · Calculated in IST</text>
+</svg>
