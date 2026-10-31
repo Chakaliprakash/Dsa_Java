@@ -1,17 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
-<title id="title">Dsa_Java repository commit streak</title>
-<desc id="desc">10 active days, current streak 2 days, longest streak 3 days. Latest activity: 31 Oct 2026.</desc>
-<rect width="760" height="230" rx="14" fill="#1a1b27"/>
-<text x="34" y="38" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">DSA_JAVA REPOSITORY STREAK</text>
-<line x1="253" y1="65" x2="253" y2="175" stroke="#565a73" stroke-width="1"/>
-<line x1="507" y1="65" x2="507" y2="175" stroke="#565a73" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
+<title id="title">Dsa_Java GitHub streak statistics</title>
+<desc id="desc">Repository-only statistics: 10 active commit days, a current streak of 2 days, and a longest streak of 3 days. Latest activity: 31 Oct 2026.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#1a1b27"/>
+    <stop offset="100%" stop-color="#24283b"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#7aa2f7"/>
+    <stop offset="100%" stop-color="#bb9af7"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect x="1" y="1" width="898" height="298" rx="18" fill="url(#bg)" stroke="#414868" stroke-width="2"/>
+<rect x="28" y="24" width="5" height="34" rx="2.5" fill="url(#accent)"/>
+<text x="49" y="43" fill="#c0caf5" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="1">GITHUB STREAK STATS</text>
+<text x="49" y="65" fill="#787c99" font-family="Segoe UI,Arial,sans-serif" font-size="12">DSA_JAVA · REPOSITORY ACTIVITY ONLY</text>
+<rect x="704" y="30" width="164" height="28" rx="14" fill="#292e42" stroke="#414868"/>
+<circle cx="720" cy="44" r="4" fill="#9ece6a"/>
+<text x="732" y="48" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600">REPO TRACKING</text>
+<line x1="28" y1="86" x2="872" y2="86" stroke="#414868" stroke-width="1"/>
 <g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">
-  <text x="126" y="112" fill="#7aa2f7" font-size="43" font-weight="700">10</text>
-  <text x="126" y="145" fill="#c0caf5" font-size="17">Active Days</text>
-  <text x="380" y="112" fill="#bb9af7" font-size="43" font-weight="700">2</text>
-  <text x="380" y="145" fill="#c0caf5" font-size="17">Current Streak</text>
-  <text x="634" y="112" fill="#7aa2f7" font-size="43" font-weight="700">3</text>
-  <text x="634" y="145" fill="#c0caf5" font-size="17">Longest Streak</text>
+  <rect x="28" y="104" width="264" height="142" rx="12" fill="#1f2335" stroke="#414868"/>
+  <rect x="318" y="104" width="264" height="142" rx="12" fill="#1f2335" stroke="#414868"/>
+  <rect x="608" y="104" width="264" height="142" rx="12" fill="#1f2335" stroke="#414868"/>
+  <g transform="translate(150 128)" filter="url(#glow)">
+    <path d="M0 -15 C-13 -2 -17 7 -10 17 C-5 24 7 24 13 16 C20 6 9 -5 5 -14 C4 -6 1 -2 -2 1 C-4 -5 -2 -10 0 -15Z" fill="#e0af68"/>
+  </g>
+  <text x="160" y="183" fill="#7aa2f7" font-size="39" font-weight="700">10</text>
+  <text x="160" y="211" fill="#c0caf5" font-size="15" font-weight="600">TOTAL ACTIVE DAYS</text>
+  <text x="160" y="230" fill="#787c99" font-size="11">Days with at least one commit</text>
+  <g transform="translate(450 128)">
+    <path d="M0 -15 C-13 -2 -17 7 -10 17 C-5 24 7 24 13 16 C20 6 9 -5 5 -14 C4 -6 1 -2 -2 1 C-4 -5 -2 -10 0 -15Z" fill="#f7768e"/>
+  </g>
+  <text x="450" y="183" fill="#f7768e" font-size="39" font-weight="700">2</text>
+  <text x="450" y="211" fill="#c0caf5" font-size="15" font-weight="600">CURRENT STREAK</text>
+  <text x="450" y="230" fill="#787c99" font-size="11">Consecutive active days</text>
+  <g transform="translate(740 128)">
+    <path d="M-13 15 L0 -15 L13 15 Z" fill="none" stroke="#bb9af7" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M0 -7 L0 5" stroke="#bb9af7" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="0" cy="10" r="1.8" fill="#bb9af7"/>
+  </g>
+  <text x="740" y="183" fill="#bb9af7" font-size="39" font-weight="700">3</text>
+  <text x="740" y="211" fill="#c0caf5" font-size="15" font-weight="600">LONGEST STREAK</text>
+  <text x="740" y="230" fill="#787c99" font-size="11">Best consecutive-day run</text>
 </g>
-<text x="380" y="195" fill="#73daca" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">Latest repository activity: 31 Oct 2026 · Calculated in IST</text>
+<line x1="28" y1="263" x2="872" y2="263" stroke="#414868" stroke-width="1"/>
+<text x="32" y="283" fill="#9ece6a" font-family="Segoe UI,Arial,sans-serif" font-size="12">●</text>
+<text x="48" y="283" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="12">Latest repository commit: 31 Oct 2026</text>
+<text x="868" y="283" text-anchor="end" fill="#787c99" font-family="Segoe UI,Arial,sans-serif" font-size="11">Calculated in IST · Dsa_Java only</text>
 </svg>
