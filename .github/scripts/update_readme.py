@@ -159,7 +159,7 @@ def generate_repo_streak_svg():
 <text x="868" y="283" text-anchor="end" fill="#787c99" font-family="Segoe UI,Arial,sans-serif" font-size="11">Calculated in IST · Dsa_Java only</text>
 </svg>
 """
-    (ROOT / "repo-streak.svg").write_text(svg, encoding="utf-8")
+    (ROOT / "repo-streak-v3.svg").write_text(svg, encoding="utf-8")
     print("Repository-specific streak card generated.")
 
 def generate_section():
