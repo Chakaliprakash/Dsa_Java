@@ -1,4 +1,3 @@
-
 name: Update README Automatically
 
 on:
@@ -7,9 +6,12 @@ on:
       - main
     paths:
       - '**/*.java'
+      - '*.java'
       - '.github/scripts/update_readme.py'
       - '.github/workflows/update-readme.yml'
-
+  schedule:
+    # Daily safety refresh at 00:00 UTC (05:30 IST).
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
@@ -51,7 +53,6 @@ jobs:
           fi
 
           git commit -m "docs: automatically update README"
-
           git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
