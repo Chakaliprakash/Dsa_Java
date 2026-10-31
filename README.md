@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 21
+**Total problem folders:** 22
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -74,6 +74,7 @@ Explore the problems organized in this repository.
 - [Search Insert Position](./35-search-insert-position)
 - [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
 - [Split Array Largest Sum](./410-split-array-largest-sum)
+- [Powx N](./50-powx-n)
 - [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
 - [Sqrtx](./69-sqrtx)
@@ -87,10 +88,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`0730909`](https://github.com/Chakaliprakash/Dsa_Java/commit/073090908b149f3eb2cf2b95446c871b27ea6b89)
-- **Problem:** [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
-- **Message:** Time: 3 ms (40.25%) \| Memory: 48.5 MB (77.49%) - LeetSync
-- **Date:** 2026-10-30T06:34:39+05:30
+- **Commit:** [`b0f4b67`](https://github.com/Chakaliprakash/Dsa_Java/commit/b0f4b67ce732e7f5a01c85540d56acdd856d5072)
+- **Problem:** [Powx N](./50-powx-n)
+- **Message:** Time: 1 ms (25.22%) \| Memory: 47.5 MB (83.64%) - LeetSync
+- **Date:** 2026-10-31T07:39:44+05:30
 
 <!-- AUTO-README:END -->
 
