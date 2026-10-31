@@ -141,7 +141,7 @@ For each problem, I aim to:
 
 <br/>
 
-<img src="./repo-streak.svg" width="100%" alt="Dsa_Java repository-specific commit streak"/>
+<img src="./repo-streak.svg?v=2" width="100%" alt="Dsa_Java repository-specific commit streak"/>
 
 </div>
 
