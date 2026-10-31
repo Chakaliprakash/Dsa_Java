@@ -34,7 +34,8 @@ def contains_java(folder):
 
 
 def display_name(folder_name):
-    name = re.sub(r"^\\d+-", "", folder_name)
+    # Remove a leading LeetCode/problem number, e.g. "121-best-time" -> "best time".
+    name = re.sub(r"^\d+-", "", folder_name)
     return name.replace("-", " ").replace("_", " ").title()
 
 
