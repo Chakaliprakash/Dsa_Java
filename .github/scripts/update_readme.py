@@ -3,6 +3,9 @@ from urllib.parse import quote
 import os
 import re
 import subprocess
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
+from html import escape
 
 ROOT = Path(__file__).resolve().parents[2]
 README = ROOT / "README.md"
@@ -52,6 +55,73 @@ def get_problem_folders():
 
 def get_latest_problem_commit():
     return git_output("log", "-1", "--format=%H", "--", "*.java")
+
+
+
+def get_repo_active_dates():
+    """Return commit-active dates for this repository, using India time."""
+    output = git_output("log", "--format=%cI")
+    india = ZoneInfo("Asia/Kolkata")
+    dates = set()
+
+    for timestamp in output.splitlines():
+        if timestamp.strip():
+            commit_time = datetime.fromisoformat(timestamp.strip())
+            dates.add(commit_time.astimezone(india).date())
+
+    return dates
+
+
+def calculate_streaks(active_dates):
+    if not active_dates:
+        return 0, 0, None
+
+    today = datetime.now(ZoneInfo("Asia/Kolkata")).date()
+    anchor = today if today in active_dates else today - timedelta(days=1)
+
+    current = 0
+    day = anchor
+    while day in active_dates:
+        current += 1
+        day -= timedelta(days=1)
+
+    longest = 0
+    run = 0
+    previous = None
+    for day in sorted(active_dates):
+        run = run + 1 if previous and day == previous + timedelta(days=1) else 1
+        longest = max(longest, run)
+        previous = day
+
+    return current, longest, max(active_dates)
+
+
+def generate_repo_streak_svg():
+    active_dates = get_repo_active_dates()
+    current, longest, latest = calculate_streaks(active_dates)
+    total_days = len(active_dates)
+    latest_text = latest.strftime("%d %b %Y") if latest else "No commits yet"
+
+    svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
+<title id="title">Dsa_Java repository commit streak</title>
+<desc id="desc">{total_days} active days, current streak {current} days, longest streak {longest} days. Latest activity: {escape(latest_text)}.</desc>
+<rect width="760" height="230" rx="14" fill="#1a1b27"/>
+<text x="34" y="38" fill="#a9b1d6" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600">DSA_JAVA REPOSITORY STREAK</text>
+<line x1="253" y1="65" x2="253" y2="175" stroke="#565a73" stroke-width="1"/>
+<line x1="507" y1="65" x2="507" y2="175" stroke="#565a73" stroke-width="1"/>
+<g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">
+  <text x="126" y="112" fill="#7aa2f7" font-size="43" font-weight="700">{total_days}</text>
+  <text x="126" y="145" fill="#c0caf5" font-size="17">Active Days</text>
+  <text x="380" y="112" fill="#bb9af7" font-size="43" font-weight="700">{current}</text>
+  <text x="380" y="145" fill="#c0caf5" font-size="17">Current Streak</text>
+  <text x="634" y="112" fill="#7aa2f7" font-size="43" font-weight="700">{longest}</text>
+  <text x="634" y="145" fill="#c0caf5" font-size="17">Longest Streak</text>
+</g>
+<text x="380" y="195" fill="#73daca" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">Latest repository activity: {escape(latest_text)} · Calculated in IST</text>
+</svg>
+"""
+    (ROOT / "repo-streak.svg").write_text(svg, encoding="utf-8")
+    print("Repository-specific streak card generated.")
 
 
 def generate_section():
@@ -115,6 +185,8 @@ def generate_section():
 
 
 def main():
+    generate_repo_streak_svg()
+
     if not README.exists():
         raise FileNotFoundError("README.md was not found.")
 
