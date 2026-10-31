@@ -135,13 +135,9 @@ For each problem, I aim to:
 
 
 
-<a href="https://github.com/Chakaliprakash">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakaliprakash&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</a>
+### Repository Streak
 
-<br/>
-
-<img src="./repo-streak.svg?v=2" width="100%" alt="Dsa_Java repository-specific commit streak"/>
+<img src="./repo-streak-v3.svg" width="100%" alt="Dsa_Java repository-specific commit streak"/>
 
 </div>
 
