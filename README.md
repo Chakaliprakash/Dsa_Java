@@ -59,11 +59,12 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 22
+**Total problem folders:** 23
 
 <!-- Problem links are generated from folders containing Java files. -->
 
 - [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)
+- [Pascals Triangle](./118-pascals-triangle)
 - [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
@@ -88,10 +89,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`b0f4b67`](https://github.com/Chakaliprakash/Dsa_Java/commit/b0f4b67ce732e7f5a01c85540d56acdd856d5072)
-- **Problem:** [Powx N](./50-powx-n)
-- **Message:** Time: 1 ms (25.22%) \| Memory: 47.5 MB (83.64%) - LeetSync
-- **Date:** 2026-10-31T07:39:44+05:30
+- **Commit:** [`06f3d1b`](https://github.com/Chakaliprakash/Dsa_Java/commit/06f3d1bf649026501fc1ea9db24846e94575f43b)
+- **Problem:** [Pascals Triangle](./118-pascals-triangle)
+- **Message:** Time: 1 ms (96.02%) \| Memory: 42.9 MB (87.81%) - LeetSync
+- **Date:** 2026-11-02T08:42:36+05:30
 
 <!-- AUTO-README:END -->
 
