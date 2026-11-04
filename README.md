@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 24
+**Total problem folders:** 25
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -82,6 +82,7 @@ Explore the problems organized in this repository.
 - [Sqrtx](./69-sqrtx)
 - [Climbing Stairs](./70-climbing-stairs)
 - [Intersection Of Two Sorted Arrays](./706-intersection-of-two-sorted-arrays)
+- [Subsets](./78-subsets)
 - [Binary Search](./792-binary-search)
 - [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)
 - [Merge Sorted Array](./88-merge-sorted-array)
@@ -90,10 +91,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`c8983ca`](https://github.com/Chakaliprakash/Dsa_Java/commit/c8983caf2ee32472c3e8a6a1fa3cf2542868e784)
-- **Problem:** [Generate Parentheses](./22-generate-parentheses)
-- **Message:** Time: 1 ms (85.39%) \| Memory: 43.9 MB (96.44%) - LeetSync
-- **Date:** 2026-11-04T08:08:59+05:30
+- **Commit:** [`a450348`](https://github.com/Chakaliprakash/Dsa_Java/commit/a450348f7e946944f6f0fa994418b5b34bb6d017)
+- **Problem:** [Subsets](./78-subsets)
+- **Message:** Time: 1 ms (90.84%) \| Memory: 43.6 MB (86.98%) - LeetSync
+- **Date:** 2026-11-04T08:20:52+05:30
 
 <!-- AUTO-README:END -->
 
