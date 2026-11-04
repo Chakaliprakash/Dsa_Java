@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 25
+**Total problem folders:** 26
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -69,6 +69,7 @@ Explore the problems organized in this repository.
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
 - [Kth Missing Positive Number](./1646-kth-missing-positive-number)
+- [Count Good Numbers](./2050-count-good-numbers)
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
@@ -91,10 +92,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`03ff15f`](https://github.com/Chakaliprakash/Dsa_Java/commit/03ff15f6ebccbaae3ecdf2dbdeee704a0541aef5)
-- **Problem:** [Subsets](./78-subsets)
-- **Message:** Time: 1 ms (90.84%) \| Memory: 43.6 MB (86.98%) - LeetSync
-- **Date:** 2026-11-04T08:23:35+05:30
+- **Commit:** [`e657a9c`](https://github.com/Chakaliprakash/Dsa_Java/commit/e657a9cdba22d04b8b0a390a5f43d174b5c9f880)
+- **Problem:** [Count Good Numbers](./2050-count-good-numbers)
+- **Message:** Time: 0 ms (100.00%) \| Memory: 41.7 MB (79.87%) - LeetSync
+- **Date:** 2026-11-04T08:42:08+05:30
 
 <!-- AUTO-README:END -->
 
