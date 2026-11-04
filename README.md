@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 23
+**Total problem folders:** 24
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -70,6 +70,7 @@ Explore the problems organized in this repository.
 - [Find Peak Element](./162-find-peak-element)
 - [Kth Missing Positive Number](./1646-kth-missing-positive-number)
 - [Contains Duplicate](./217-contains-duplicate)
+- [Generate Parentheses](./22-generate-parentheses)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
@@ -89,10 +90,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`06f3d1b`](https://github.com/Chakaliprakash/Dsa_Java/commit/06f3d1bf649026501fc1ea9db24846e94575f43b)
-- **Problem:** [Pascals Triangle](./118-pascals-triangle)
-- **Message:** Time: 1 ms (96.02%) \| Memory: 42.9 MB (87.81%) - LeetSync
-- **Date:** 2026-11-02T08:42:36+05:30
+- **Commit:** [`c8983ca`](https://github.com/Chakaliprakash/Dsa_Java/commit/c8983caf2ee32472c3e8a6a1fa3cf2542868e784)
+- **Problem:** [Generate Parentheses](./22-generate-parentheses)
+- **Message:** Time: 1 ms (85.39%) \| Memory: 43.9 MB (96.44%) - LeetSync
+- **Date:** 2026-11-04T08:08:59+05:30
 
 <!-- AUTO-README:END -->
 
