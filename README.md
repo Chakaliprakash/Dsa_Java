@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 26
+**Total problem folders:** 27
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -69,6 +69,7 @@ Explore the problems organized in this repository.
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
 - [Kth Missing Positive Number](./1646-kth-missing-positive-number)
+- [House Robber](./198-house-robber)
 - [Count Good Numbers](./2050-count-good-numbers)
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
@@ -92,10 +93,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`de8649e`](https://github.com/Chakaliprakash/Dsa_Java/commit/de8649e572754b4050fbdcbd3f3392c396a87e1d)
-- **Problem:** [Climbing Stairs](./70-climbing-stairs)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 41.4 MB (92.32%) - LeetSync
-- **Date:** 2026-11-04T12:04:07+05:30
+- **Commit:** [`a9c904e`](https://github.com/Chakaliprakash/Dsa_Java/commit/a9c904e203f22252b0d311f6012a0f52602bda92)
+- **Problem:** [House Robber](./198-house-robber)
+- **Message:** Time: 0 ms (100.00%) \| Memory: 42.2 MB (91.03%) - LeetSync
+- **Date:** 2026-11-07T18:12:13+05:30
 
 <!-- AUTO-README:END -->
 
