@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 27
+**Total problem folders:** 28
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -71,6 +71,7 @@ Explore the problems organized in this repository.
 - [Kth Missing Positive Number](./1646-kth-missing-positive-number)
 - [House Robber](./198-house-robber)
 - [Count Good Numbers](./2050-count-good-numbers)
+- [House Robber Ii](./213-house-robber-ii)
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
@@ -93,10 +94,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`a9c904e`](https://github.com/Chakaliprakash/Dsa_Java/commit/a9c904e203f22252b0d311f6012a0f52602bda92)
-- **Problem:** [House Robber](./198-house-robber)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 42.2 MB (91.03%) - LeetSync
-- **Date:** 2026-11-07T18:12:13+05:30
+- **Commit:** [`097f581`](https://github.com/Chakaliprakash/Dsa_Java/commit/097f5815ccbf803c146b27b9d0ba8c117a26a9c9)
+- **Problem:** [House Robber Ii](./213-house-robber-ii)
+- **Message:** Time: 0 ms (100.00%) \| Memory: 42.6 MB (65.11%) - LeetSync
+- **Date:** 2026-11-08T10:25:25+05:30
 
 <!-- AUTO-README:END -->
 
