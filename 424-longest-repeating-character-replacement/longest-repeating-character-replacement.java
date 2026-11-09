@@ -9,7 +9,7 @@ class Solution {
             maxfreq=Math.max(maxfreq,freq[ch-'A']);
 
             int window=r-l+1;
-            if(window-maxfreq>k) {
+            while(window-maxfreq>k) {
                 freq[s.charAt(l)-'A']--;
                 l++;
                 window=r-l+1;
