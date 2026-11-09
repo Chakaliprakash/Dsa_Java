@@ -8,9 +8,8 @@ class Solution {
                 if(nums[l]==0) count--;
                 l++;
             }
-            ans=Math.max(ans,i-l+1);
         }
-        return ans;
+        return nums.length-l;
     }
 }
 // class Solution {
