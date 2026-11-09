@@ -59,10 +59,11 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 30
+**Total problem folders:** 31
 
 <!-- Problem links are generated from folders containing Java files. -->
 
+- [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii)
 - [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)
 - [Pascals Triangle](./118-pascals-triangle)
 - [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)
@@ -96,10 +97,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`ef58f87`](https://github.com/Chakaliprakash/Dsa_Java/commit/ef58f878ce15bd8a614d013f30e3c8632d615d9e)
-- **Problem:** [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)
-- **Message:** Time: 6 ms (99.01%) \| Memory: 46.1 MB (63.82%) - LeetSync
-- **Date:** 2026-11-09T11:42:23+05:30
+- **Commit:** [`3d67d3e`](https://github.com/Chakaliprakash/Dsa_Java/commit/3d67d3e20e4a0732480a6422a896e9cf16ed65d6)
+- **Problem:** [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii)
+- **Message:** Time: 4 ms (57.66%) \| Memory: 54.3 MB (43.65%) - LeetSync
+- **Date:** 2026-11-09T12:02:49+05:30
 
 <!-- AUTO-README:END -->
 
