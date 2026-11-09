@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 29
+**Total problem folders:** 30
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -79,6 +79,7 @@ Explore the problems organized in this repository.
 - [Search Insert Position](./35-search-insert-position)
 - [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
 - [Split Array Largest Sum](./410-split-array-largest-sum)
+- [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)
 - [Powx N](./50-powx-n)
 - [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
@@ -95,10 +96,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`f1526ad`](https://github.com/Chakaliprakash/Dsa_Java/commit/f1526ad15cfe90ac03ba3bc336d615f32b41b3fb)
-- **Problem:** [Minimum Window Substring](./76-minimum-window-substring)
-- **Message:** Time: 2 ms (99.79%) \| Memory: 44.9 MB (92.11%) - LeetSync
-- **Date:** 2026-11-08T17:46:33+05:30
+- **Commit:** [`8c0170c`](https://github.com/Chakaliprakash/Dsa_Java/commit/8c0170c0e925e415eb6ce80c9cbfb2c34541002d)
+- **Problem:** [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)
+- **Message:** Time: 11 ms (51.30%) \| Memory: 45.7 MB (83.57%) - LeetSync
+- **Date:** 2026-11-09T11:37:21+05:30
 
 <!-- AUTO-README:END -->
 
