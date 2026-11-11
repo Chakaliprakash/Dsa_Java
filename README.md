@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 33
+**Total problem folders:** 34
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -95,14 +95,15 @@ Explore the problems organized in this repository.
 - [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)
 - [Merge Sorted Array](./88-merge-sorted-array)
 - [Koko Eating Bananas](./907-koko-eating-bananas)
+- [Minimum Falling Path Sum](./967-minimum-falling-path-sum)
 - [Tuf A2Z](./TUF-A2Z)
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`852207e`](https://github.com/Chakaliprakash/Dsa_Java/commit/852207ebfebf1bf0d5fb1c7c77126d9e7503a1bc)
-- **Problem:** [Unique Paths Ii](./63-unique-paths-ii)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 43.2 MB (70.57%) - LeetSync
-- **Date:** 2026-11-11T06:49:13+05:30
+- **Commit:** [`8716add`](https://github.com/Chakaliprakash/Dsa_Java/commit/8716add7088c6d07700488e0ede9aa4678cbeb82)
+- **Problem:** [Minimum Falling Path Sum](./967-minimum-falling-path-sum)
+- **Message:** Time: 1 ms (99.96%) \| Memory: 46.6 MB (91.78%) - LeetSync
+- **Date:** 2026-11-11T11:21:46+05:30
 
 <!-- AUTO-README:END -->
 
