@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 32
+**Total problem folders:** 33
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -85,6 +85,7 @@ Explore the problems organized in this repository.
 - [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
 - [Unique Paths](./62-unique-paths)
+- [Unique Paths Ii](./63-unique-paths-ii)
 - [Sqrtx](./69-sqrtx)
 - [Climbing Stairs](./70-climbing-stairs)
 - [Intersection Of Two Sorted Arrays](./706-intersection-of-two-sorted-arrays)
@@ -98,10 +99,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`8e19a77`](https://github.com/Chakaliprakash/Dsa_Java/commit/8e19a77d5f3f97d9f7f20ba1a9560060703263d4)
-- **Problem:** [Unique Paths](./62-unique-paths)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 41 MB (99.61%) - LeetSync
-- **Date:** 2026-11-10T05:46:11+05:30
+- **Commit:** [`d147fd0`](https://github.com/Chakaliprakash/Dsa_Java/commit/d147fd0e318bc2b4afc7901457264becf66d1cad)
+- **Problem:** [Unique Paths Ii](./63-unique-paths-ii)
+- **Message:** Time: 1 ms (23.41%) \| Memory: 42.7 MB (96.39%) - LeetSync
+- **Date:** 2026-11-11T06:48:07+05:30
 
 <!-- AUTO-README:END -->
 
