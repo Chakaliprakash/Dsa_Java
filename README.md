@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 35
+**Total problem folders:** 36
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -95,16 +95,17 @@ Explore the problems organized in this repository.
 - [Binary Search](./792-binary-search)
 - [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)
 - [Merge Sorted Array](./88-merge-sorted-array)
+- [Palindrome Number](./9-palindrome-number)
 - [Koko Eating Bananas](./907-koko-eating-bananas)
 - [Minimum Falling Path Sum](./967-minimum-falling-path-sum)
 - [Tuf A2Z](./TUF-A2Z)
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`20eaf6b`](https://github.com/Chakaliprakash/Dsa_Java/commit/20eaf6b27010d462995b828da00842c88d58cb7d)
-- **Problem:** [Triangle](./120-triangle)
-- **Message:** Time: 3 ms (80.17%) \| Memory: 44.8 MB (93.42%) - LeetSync
-- **Date:** 2026-11-12T06:29:51+05:30
+- **Commit:** [`3355369`](https://github.com/Chakaliprakash/Dsa_Java/commit/3355369a1cb5b05b5cbaf01e60bdf9b773a487a8)
+- **Problem:** [Palindrome Number](./9-palindrome-number)
+- **Message:** Time: 14 ms (33.35%) \| Memory: 45.1 MB (97.11%) - LeetSync
+- **Date:** 2026-11-12T09:46:19+05:30
 
 <!-- AUTO-README:END -->
 
