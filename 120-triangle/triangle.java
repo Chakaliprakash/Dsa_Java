@@ -22,7 +22,7 @@ class Solution {
         int dr=fMemo(list,i+1,j+1,dp);
         return dp[i][j]=list.get(i).get(j) + Math.min(d,dr);
     }
-    public int Ftabu(List<List<Integer>> triangle) {
+    static int Ftabu(List<List<Integer>> triangle) {
     int n = triangle.size();
     int[] dp = new int[n];
 
