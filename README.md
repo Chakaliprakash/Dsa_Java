@@ -59,13 +59,14 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 34
+**Total problem folders:** 35
 
 <!-- Problem links are generated from folders containing Java files. -->
 
 - [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii)
 - [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)
 - [Pascals Triangle](./118-pascals-triangle)
+- [Triangle](./120-triangle)
 - [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
@@ -100,10 +101,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`8716add`](https://github.com/Chakaliprakash/Dsa_Java/commit/8716add7088c6d07700488e0ede9aa4678cbeb82)
-- **Problem:** [Minimum Falling Path Sum](./967-minimum-falling-path-sum)
-- **Message:** Time: 1 ms (99.96%) \| Memory: 46.6 MB (91.78%) - LeetSync
-- **Date:** 2026-11-11T11:21:46+05:30
+- **Commit:** [`6bfbf57`](https://github.com/Chakaliprakash/Dsa_Java/commit/6bfbf57a4a05623fa9e2dbde23f7c9bf2189f066)
+- **Problem:** [Triangle](./120-triangle)
+- **Message:** Time: 3 ms (80.17%) \| Memory: 44.8 MB (89.07%) - LeetSync
+- **Date:** 2026-11-12T05:43:38+05:30
 
 <!-- AUTO-README:END -->
 
