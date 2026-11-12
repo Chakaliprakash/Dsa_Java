@@ -5,7 +5,7 @@ class Solution {
         // int[][]dp=new int[n][n];
         // for(int g[]:dp) Arrays.fill(g,-1);
         // return fMemo(list,0,0,dp);
-        return fTabulation(list);
+        return Ftabu(list);
     }
     static int f(List<List<Integer>> list,int i,int j) {
         int n=list.size();
