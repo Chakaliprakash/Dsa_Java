@@ -101,10 +101,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`b68717e`](https://github.com/Chakaliprakash/Dsa_Java/commit/b68717e2e115b674d2bf375b268350d503da9791)
+- **Commit:** [`20eaf6b`](https://github.com/Chakaliprakash/Dsa_Java/commit/20eaf6b27010d462995b828da00842c88d58cb7d)
 - **Problem:** [Triangle](./120-triangle)
-- **Message:** Time: 4 ms (41.19%) \| Memory: 45.2 MB (72.50%) - LeetSync
-- **Date:** 2026-11-12T06:29:32+05:30
+- **Message:** Time: 3 ms (80.17%) \| Memory: 44.8 MB (93.42%) - LeetSync
+- **Date:** 2026-11-12T06:29:51+05:30
 
 <!-- AUTO-README:END -->
 
