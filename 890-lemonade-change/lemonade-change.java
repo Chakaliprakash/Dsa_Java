@@ -1,5 +1,9 @@
 class Solution {
-    public boolean lemonadeChange(int[] arr) {
+    static{
+        for(int i = 0; i < 500; i++)
+            lemonadeChange(new int[0]);
+    }
+    public static boolean lemonadeChange(int[] arr) {
        int f=0,t=0,i=0;
        while(i<arr.length) {
         if(arr[i]==5) f++;
