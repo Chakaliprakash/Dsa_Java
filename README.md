@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 36
+**Total problem folders:** 37
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -82,6 +82,7 @@ Explore the problems organized in this repository.
 - [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
 - [Split Array Largest Sum](./410-split-array-largest-sum)
 - [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)
+- [Assign Cookies](./455-assign-cookies)
 - [Powx N](./50-powx-n)
 - [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
@@ -102,10 +103,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`3355369`](https://github.com/Chakaliprakash/Dsa_Java/commit/3355369a1cb5b05b5cbaf01e60bdf9b773a487a8)
-- **Problem:** [Palindrome Number](./9-palindrome-number)
-- **Message:** Time: 14 ms (33.35%) \| Memory: 45.1 MB (97.11%) - LeetSync
-- **Date:** 2026-11-12T09:46:19+05:30
+- **Commit:** [`44022ba`](https://github.com/Chakaliprakash/Dsa_Java/commit/44022ba50256ca89d5b5d9a45e5de90644ecd7ab)
+- **Problem:** [Assign Cookies](./455-assign-cookies)
+- **Message:** Time: 15 ms (68.70%) \| Memory: 51 MB (80.17%) - LeetSync
+- **Date:** 2026-11-13T05:48:12+05:30
 
 <!-- AUTO-README:END -->
 
