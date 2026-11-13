@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 37
+**Total problem folders:** 38
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -96,6 +96,7 @@ Explore the problems organized in this repository.
 - [Binary Search](./792-binary-search)
 - [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)
 - [Merge Sorted Array](./88-merge-sorted-array)
+- [Lemonade Change](./890-lemonade-change)
 - [Palindrome Number](./9-palindrome-number)
 - [Koko Eating Bananas](./907-koko-eating-bananas)
 - [Minimum Falling Path Sum](./967-minimum-falling-path-sum)
@@ -103,10 +104,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`a33ad96`](https://github.com/Chakaliprakash/Dsa_Java/commit/a33ad966feb5e985dd4b909e2cfdc0a8f2a1b179)
-- **Problem:** [Assign Cookies](./455-assign-cookies)
-- **Message:** Time: 8 ms (99.33%) \| Memory: 50.2 MB (99.69%) - LeetSync
-- **Date:** 2026-11-13T05:52:58+05:30
+- **Commit:** [`8623f70`](https://github.com/Chakaliprakash/Dsa_Java/commit/8623f707e7a542b8c5c70fa97275971426db4640)
+- **Problem:** [Lemonade Change](./890-lemonade-change)
+- **Message:** Time: 2 ms (98.36%) \| Memory: 71 MB (99.88%) - LeetSync
+- **Date:** 2026-11-13T06:19:19+05:30
 
 <!-- AUTO-README:END -->
 
