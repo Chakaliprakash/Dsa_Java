@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 38
+**Total problem folders:** 39
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -86,6 +86,7 @@ Explore the problems organized in this repository.
 - [Powx N](./50-powx-n)
 - [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
+- [Jump Game](./55-jump-game)
 - [Unique Paths](./62-unique-paths)
 - [Unique Paths Ii](./63-unique-paths-ii)
 - [Sqrtx](./69-sqrtx)
@@ -104,10 +105,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`70d715f`](https://github.com/Chakaliprakash/Dsa_Java/commit/70d715f1b3499a9f643dee0cee48e226c00cbf66)
-- **Problem:** [Lemonade Change](./890-lemonade-change)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 70.9 MB (99.88%) - LeetSync
-- **Date:** 2026-11-13T06:22:22+05:30
+- **Commit:** [`e7b42c5`](https://github.com/Chakaliprakash/Dsa_Java/commit/e7b42c5ca0beb9180090ce578e57be9ec55ab8b3)
+- **Problem:** [Jump Game](./55-jump-game)
+- **Message:** Time: 3 ms (30.82%) \| Memory: 47.4 MB (83.60%) - LeetSync
+- **Date:** 2026-11-13T07:39:38+05:30
 
 <!-- AUTO-README:END -->
 
