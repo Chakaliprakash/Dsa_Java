@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 39
+**Total problem folders:** 40
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -81,6 +81,7 @@ Explore the problems organized in this repository.
 - [Search Insert Position](./35-search-insert-position)
 - [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
 - [Split Array Largest Sum](./410-split-array-largest-sum)
+- [Partition Equal Subset Sum](./416-partition-equal-subset-sum)
 - [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)
 - [Assign Cookies](./455-assign-cookies)
 - [Powx N](./50-powx-n)
@@ -105,10 +106,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`7eab89d`](https://github.com/Chakaliprakash/Dsa_Java/commit/7eab89d48fdf72a727e7810c3a7e1f86a3c7cc41)
-- **Problem:** [Jump Game](./55-jump-game)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 47.5 MB (75.53%) - LeetSync
-- **Date:** 2026-11-13T07:44:31+05:30
+- **Commit:** [`d250c39`](https://github.com/Chakaliprakash/Dsa_Java/commit/d250c393afc038dee82247488378601991252afd)
+- **Problem:** [Partition Equal Subset Sum](./416-partition-equal-subset-sum)
+- **Message:** Time: 43 ms (57.94%) \| Memory: 46.4 MB (63.10%) - LeetSync
+- **Date:** 2026-11-16T06:04:17+05:30
 
 <!-- AUTO-README:END -->
 
