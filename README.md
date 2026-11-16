@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 40
+**Total problem folders:** 41
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -76,6 +76,7 @@ Explore the problems organized in this repository.
 - [House Robber Ii](./213-house-robber-ii)
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
+- [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
@@ -106,10 +107,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`d250c39`](https://github.com/Chakaliprakash/Dsa_Java/commit/d250c393afc038dee82247488378601991252afd)
-- **Problem:** [Partition Equal Subset Sum](./416-partition-equal-subset-sum)
-- **Message:** Time: 43 ms (57.94%) \| Memory: 46.4 MB (63.10%) - LeetSync
-- **Date:** 2026-11-16T06:04:17+05:30
+- **Commit:** [`3d845a6`](https://github.com/Chakaliprakash/Dsa_Java/commit/3d845a64c8d545e02fd0c0110a144dafa410950f)
+- **Problem:** [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
+- **Message:** Time: 1 ms (98.36%) \| Memory: 43.2 MB (66.76%) - LeetSync
+- **Date:** 2026-11-16T06:11:31+05:30
 
 <!-- AUTO-README:END -->
 
