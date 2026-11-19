@@ -113,7 +113,7 @@ Codeforces solutions have a dedicated directory entry point. Existing contest fo
 
 <div align="center">
 
-<a href="./Codeforces/README.md"><img src="https://img.shields.io/badge/OPEN-CODEFORCES%20SOLUTIONS-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open Codeforces solutions"/></a>
+<a href="./CODEFORCES_SOLUTIONS.md"><img src="https://img.shields.io/badge/OPEN-CODEFORCES%20DASHBOARD-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open Codeforces dashboard"/></a>
 
 </div>
 
