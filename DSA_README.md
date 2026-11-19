@@ -93,7 +93,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`3d845a6`](https://github.com/ChakaliPrakash/Dsa_Java/commit/3d845a64c8d545e02fd0c0110a144dafa410950f)
+- **Commit:** [`3d845a6`](https://github.com/Chakaliprakash/Dsa_Java/commit/3d845a64c8d545e02fd0c0110a144dafa410950f)
 - **Problem:** [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
 - **Message:** Time: 1 ms (98.36%) \| Memory: 43.2 MB (66.76%) - LeetSync
 - **Date:** 2026-11-16T06:11:31+05:30
