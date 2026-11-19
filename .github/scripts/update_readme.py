@@ -8,7 +8,7 @@ from zoneinfo import ZoneInfo
 from html import escape
 
 ROOT = Path(__file__).resolve().parents[2]
-README = ROOT / "README.md"
+README = ROOT / "DSA_README.md"
 
 START = "<!-- AUTO-README:START -->"
 END = "<!-- AUTO-README:END -->"
@@ -48,12 +48,22 @@ def get_problem_folders():
         if folder.is_dir()
         and not folder.name.startswith(".")
         and folder.name not in IGNORED_DIRS
+        and not folder.name.isdigit()  # Codeforces contest IDs stay out of the DSA index.
         and contains_java(folder)
     ]
     return sorted(folders, key=lambda folder: folder.name.lower())
 
 
 def get_latest_problem_commit():
+    output = git_output("log", "--format=COMMIT:%H", "--name-only", "--", "*.java")
+    current_commit = None
+    for line in output.splitlines():
+        if line.startswith("COMMIT:"):
+            current_commit = line.removeprefix("COMMIT:")
+        elif line.endswith(".java") and current_commit:
+            parts = Path(line).parts
+            if len(parts) > 1 and parts[0] not in IGNORED_DIRS and not parts[0].isdigit():
+                return current_commit
     return git_output("log", "-1", "--format=%H", "--", "*.java")
 
 
