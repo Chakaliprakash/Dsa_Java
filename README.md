@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 44
+**Total problem folders:** 45
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -78,6 +78,7 @@ Explore the problems organized in this repository.
 - [2134](./2134)
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
+- [2275](./2275)
 - [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
 - [282](./282)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
@@ -110,10 +111,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`139a919`](https://github.com/Chakaliprakash/Dsa_Java/commit/139a9191562d543d3e96e7d6af9024361c0b236d)
-- **Problem:** [2134](./2134)
-- **Message:** Add Painting With Two Colors [A] from Codeforces
-- **Date:** 2026-11-19T07:12:38+05:30
+- **Commit:** [`bf02834`](https://github.com/Chakaliprakash/Dsa_Java/commit/bf02834d1ede7d7198880d34bcb53afecc75193d)
+- **Problem:** [2275](./2275)
+- **Message:** Add In Search of Convenience [A] from Codeforces
+- **Date:** 2026-11-19T07:12:55+05:30
 
 <!-- AUTO-README:END -->
 
