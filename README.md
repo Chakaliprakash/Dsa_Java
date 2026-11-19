@@ -1,137 +1,185 @@
-<!--
-  Dsa_Java | Repository landing page
-  Detailed DSA index: DSA_README.md
-  CFPusher snapshot preserved at: CODEFORCES_SOLUTIONS.md
--->
+
+<!-- =============== HERO =============== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:123B5D,100:16A085&height=230&section=header&text=JAVA%20%7C%20DSA%20JOURNEY&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Think%20 clearly.%20Code%20cleanly.%20Grow%20every%20day.&descAlignY=58&descSize=16" width="100%" alt="Java DSA Journey banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,45:312E81,100:06B6D4&text=JAVA%20DSA%20LAB&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Think%20%7C%20Solve%20%7C%20Optimize&descAlignY=58&descSize=18&animation=twinkling" width="100%" alt="Java DSA Lab banner"/>
 
-# Prakash Chakali
-
-### Software Development • Java • Data Structures & Algorithms
-
-<p>
-  <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21"/>
-  <img src="https://img.shields.io/badge/DSA-Practice-0A7B83?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA practice"/>
-  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Status-Consistently%20Learning-238636?style=for-the-badge" alt="Consistently learning"/>
-</p>
-
-[**Explore DSA Dashboard**](./DSA_README.md) &nbsp; • &nbsp; [**Codeforces Archive**](./CODEFORCES_SOLUTIONS.md) &nbsp; • &nbsp; [**Browse Repository**](https://github.com/ChakaliPrakash/Dsa_Java)
-
-</div>
-
----
-
-## 👨‍💻 About This Repository
-
-Welcome to my Java problem-solving workspace. This repository documents my journey of strengthening programming fundamentals, mastering data structures and algorithms, and writing efficient, readable Java solutions.
-
-I focus on understanding the *why* behind each solution—not just getting accepted.
-
-<details open>
-<summary><b>🧠 What I'm working on</b></summary>
-
-| Area | Topics |
-|:--|:--|
-| **Problem-solving patterns** | Two Pointers, Sliding Window, Prefix Sum, Hashing |
-| **Searching & Sorting** | Binary Search, Sorting, Search on Answer |
-| **Data Structures** | Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps |
-| **Algorithms** | Greedy, Recursion, Backtracking, Dynamic Programming |
-| **Java skills** | OOP, Collections Framework, Streams, clean code |
-| **Interview preparation** | Pattern recognition, dry runs, time & space analysis |
-
-</details>
-
-## 🚀 Explore the Solution Hubs
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📘 Java DSA Dashboard
-
-<a href="./DSA_README.md">
-<img src="https://img.shields.io/badge/OPEN%20DSA%20DASHBOARD-0A7B83?style=for-the-badge&logo=java&logoColor=white" alt="Open DSA dashboard"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Data+Structures+%26+Algorithms+in+Java;Building+Problem-Solving+Skills;Brute+Force+%E2%86%92+Optimization;One+Problem+at+a+Time" alt="Typing animation"/>
 </a>
 
-- LeetCode and DSA problem index
-- Automatically refreshed problem list
-- Latest solution activity
-- GitHub coding statistics
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-### 🏁 Codeforces Solutions
-
-<a href="./CODEFORCES_SOLUTIONS.md">
-<img src="https://img.shields.io/badge/OPEN%20CODEFORCES%20ARCHIVE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open Codeforces archive"/>
+<a href="https://github.com/Chakaliprakash/Dsa_Java">
+<img src="https://img.shields.io/badge/LANGUAGE-JAVA_21-06B6D4?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </a>
-
-- Contest-wise submissions
-- Topic-wise problem categories
-- Problem difficulty and Java solutions
-- Preserved CFPusher-generated index
-
-</td>
-</tr>
-</table>
-
-## 📊 Repository at a Glance
-
-<div align="center">
-
-<a href="https://github.com/ChakaliPrakash/Dsa_Java/commits/main">
-<img src="https://img.shields.io/github/last-commit/ChakaliPrakash/Dsa_Java?style=for-the-badge&logo=github&label=Latest%20commit" alt="Latest commit"/>
-</a>
-<a href="https://github.com/ChakaliPrakash/Dsa_Java">
-<img src="https://img.shields.io/github/repo-size/ChakaliPrakash/Dsa_Java?style=for-the-badge&label=Repository%20size" alt="Repository size"/>
-</a>
-<a href="https://github.com/ChakaliPrakash/Dsa_Java/stargazers">
-<img src="https://img.shields.io/github/stars/ChakaliPrakash/Dsa_Java?style=for-the-badge&label=Stars" alt="GitHub stars"/>
-</a>
-<a href="https://github.com/ChakaliPrakash/Dsa_Java/network/members">
-<img src="https://img.shields.io/github/forks/ChakaliPrakash/Dsa_Java?style=for-the-badge&label=Forks" alt="GitHub forks"/>
-</a>
+<img src="https://img.shields.io/badge/FOCUS-DSA-7C3AED?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY_LEARNING-10B981?style=for-the-badge" alt="Learning"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chakaliprakash&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chakaliprakash&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="165" alt="Most used languages"/>
+**Java solutions for Data Structures and Algorithms practice.**
+
+*Practice problem solving, learn common patterns, and improve efficiency.*
+
+<br/>
+
+[Explore Problems](#-problem-vault) ·
+[My Progress](#-github-dashboard) ·
+[Connect](#-connect)
 
 </div>
-
-## 🛠️ Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode" alt="Java, Git, GitHub, IntelliJ IDEA and VS Code"/>
-
-</div>
-
-## 🎯 My Learning Goals
-
-- [ ] Build strong fundamentals in core data structures and algorithms.
-- [ ] Solve problems across easy, medium, and hard difficulty levels.
-- [ ] Improve time and space complexity with every revision.
-- [ ] Write clean, maintainable, and testable Java code.
-- [ ] Become confident in technical interviews and real-world backend development.
 
 ---
 
+<!-- =============== INTRO =============== -->
+
+## ◈ About This Repository
+
+This repository contains Java solutions for data structures, algorithms, and coding practice.
+
+Each solution helps me practice problem-solving techniques and analyze time and space complexity.
+
 <div align="center">
 
-### Consistency beats intensity.
+| 🧠 Problem Solving | ⚡ Optimization | ☕ Java |
+|:---:|:---:|:---:|
+| Build logical thinking | Improve time complexity | Write clean solutions |
 
-*One problem, one concept, one improvement at a time.*
+</div>
 
-<a href="https://github.com/Chakaliprakash">GitHub Profile</a> &nbsp; • &nbsp;
-<a href="./DSA_README.md">DSA Dashboard</a> &nbsp; • &nbsp;
-<a href="./CODEFORCES_SOLUTIONS.md">Codeforces Archive</a>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A085,50:123B5D,100:07111F&height=100&section=footer" width="100%" alt="Footer banner"/>
+## ◈ Problem Vault
+
+Explore the problems organized in this repository.
+
+<!-- AUTO-README:START -->
+
+## 📚 Automatically Updated Problems
+
+**Total problem folders:** 41
+
+<!-- Problem links are generated from folders containing Java files. -->
+
+- [Max Consecutive Ones Iii](./1046-max-consecutive-ones-iii)
+- [Capacity To Ship Packages Within D Days](./1056-capacity-to-ship-packages-within-d-days)
+- [Pascals Triangle](./118-pascals-triangle)
+- [Triangle](./120-triangle)
+- [Best Time To Buy And Sell Stock](./121-best-time-to-buy-and-sell-stock)
+- [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
+- [Find Peak Element](./162-find-peak-element)
+- [Kth Missing Positive Number](./1646-kth-missing-positive-number)
+- [House Robber](./198-house-robber)
+- [Count Good Numbers](./2050-count-good-numbers)
+- [House Robber Ii](./213-house-robber-ii)
+- [Contains Duplicate](./217-contains-duplicate)
+- [Generate Parentheses](./22-generate-parentheses)
+- [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
+- [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
+- [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
+- [Search Insert Position](./35-search-insert-position)
+- [Median Of Two Sorted Arrays](./4-median-of-two-sorted-arrays)
+- [Split Array Largest Sum](./410-split-array-largest-sum)
+- [Partition Equal Subset Sum](./416-partition-equal-subset-sum)
+- [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)
+- [Assign Cookies](./455-assign-cookies)
+- [Powx N](./50-powx-n)
+- [Base 7](./504-base-7)
+- [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
+- [Jump Game](./55-jump-game)
+- [Unique Paths](./62-unique-paths)
+- [Unique Paths Ii](./63-unique-paths-ii)
+- [Sqrtx](./69-sqrtx)
+- [Climbing Stairs](./70-climbing-stairs)
+- [Intersection Of Two Sorted Arrays](./706-intersection-of-two-sorted-arrays)
+- [Minimum Window Substring](./76-minimum-window-substring)
+- [Subsets](./78-subsets)
+- [Binary Search](./792-binary-search)
+- [Search In Rotated Sorted Array Ii](./81-search-in-rotated-sorted-array-ii)
+- [Merge Sorted Array](./88-merge-sorted-array)
+- [Lemonade Change](./890-lemonade-change)
+- [Palindrome Number](./9-palindrome-number)
+- [Koko Eating Bananas](./907-koko-eating-bananas)
+- [Minimum Falling Path Sum](./967-minimum-falling-path-sum)
+- [Tuf A2Z](./TUF-A2Z)
+
+## 🔄 Latest Commit
+
+- **Commit:** [`3d845a6`](https://github.com/Chakaliprakash/Dsa_Java/commit/3d845a64c8d545e02fd0c0110a144dafa410950f)
+- **Problem:** [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
+- **Message:** Time: 1 ms (98.36%) \| Memory: 43.2 MB (66.76%) - LeetSync
+- **Date:** 2026-11-16T06:11:31+05:30
+
+<!-- AUTO-README:END -->
+
+---
+
+## ◈ My Problem-Solving Workflow
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-UNDERSTAND-0F172A?style=for-the-badge&labelColor=0891B2" alt="Understand"/>
+<img src="https://img.shields.io/badge/02-BRUTE_FORCE-0F172A?style=for-the-badge&labelColor=7C3AED" alt="Brute force"/>
+<img src="https://img.shields.io/badge/03-OPTIMIZE-0F172A?style=for-the-badge&labelColor=DB2777" alt="Optimize"/>
+<img src="https://img.shields.io/badge/04-ANALYZE-0F172A?style=for-the-badge&labelColor=059669" alt="Analyze"/>
+
+</div>
+
+For each problem, I aim to:
+
+- Understand the problem statement and constraints.
+- Develop a brute-force approach.
+- Find a better or optimal solution.
+- Analyze time and space complexity.
+- Test edge cases and improve code quality.
+
+---
+
+## ◈ Topics I'm Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arrays-0891B2?style=for-the-badge" alt="Arrays"/>
+<img src="https://img.shields.io/badge/Binary_Search-7C3AED?style=for-the-badge" alt="Binary Search"/>
+<img src="https://img.shields.io/badge/Sorting-DB2777?style=for-the-badge" alt="Sorting"/>
+<img src="https://img.shields.io/badge/Hashing-059669?style=for-the-badge" alt="Hashing"/>
+<img src="https://img.shields.io/badge/Strings-EA580C?style=for-the-badge" alt="Strings"/>
+<img src="https://img.shields.io/badge/Sliding_Window-2563EB?style=for-the-badge" alt="Sliding Window"/>
+<img src="https://img.shields.io/badge/Two_Pointers-9333EA?style=for-the-badge" alt="Two Pointers"/>
+<img src="https://img.shields.io/badge/Greedy-0D9488?style=for-the-badge" alt="Greedy"/>
+
+</div>
+
+
+
+
+### Repository Streak
+
+<img src="./repo-streak-v3.svg" width="100%" alt="Dsa_Java repository-specific commit streak"/>
+
+</div>
+
+---
+
+
+---
+
+## ◈ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,git,github,idea,vscode&theme=dark" alt="Java developer tools"/>
+
+</div>
+
+---
+
+**Thanks for visiting my Java DSA Lab!**
+
+If you find this repository useful, consider giving it a ⭐.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090B&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
