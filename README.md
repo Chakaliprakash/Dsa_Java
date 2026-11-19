@@ -59,7 +59,7 @@ Explore the problems organized in this repository.
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 41
+**Total problem folders:** 42
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -77,6 +77,7 @@ Explore the problems organized in this repository.
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
 - [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
+- [282](./282)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
@@ -107,10 +108,10 @@ Explore the problems organized in this repository.
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`3d845a6`](https://github.com/Chakaliprakash/Dsa_Java/commit/3d845a64c8d545e02fd0c0110a144dafa410950f)
-- **Problem:** [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
-- **Message:** Time: 1 ms (98.36%) \| Memory: 43.2 MB (66.76%) - LeetSync
-- **Date:** 2026-11-16T06:11:31+05:30
+- **Commit:** [`e80d001`](https://github.com/Chakaliprakash/Dsa_Java/commit/e80d00180a9b74088ce02cb0d8d04b5ee1b2d757)
+- **Problem:** [282](./282)
+- **Message:** Add Bit++ [A] from Codeforces
+- **Date:** 2026-11-19T07:12:14+05:30
 
 <!-- AUTO-README:END -->
 
