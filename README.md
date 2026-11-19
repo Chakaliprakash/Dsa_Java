@@ -26,6 +26,7 @@
 <br/>
 
 [Explore Problems](#-problem-vault) ·
+[Codeforces Dashboard](./CODEFORCES_SOLUTIONS.md) ·
 [My Progress](#-github-dashboard) ·
 [Connect](#-connect)
 
