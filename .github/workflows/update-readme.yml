@@ -7,6 +7,7 @@ on:
     paths:
       - '**/*.java'
       - '*.java'
+      - '!Codeforces/**'
       - '.github/scripts/update_readme.py'
       - '.github/workflows/update-readme.yml'
   schedule:
@@ -45,7 +46,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md repo-streak-v3.svg
+          git add DSA_README.md repo-streak-v3.svg
 
           if git diff --cached --quiet; then
             echo "README is already up to date."
