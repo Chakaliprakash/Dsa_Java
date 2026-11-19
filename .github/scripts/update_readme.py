@@ -15,7 +15,7 @@ END = "<!-- AUTO-README:END -->"
 
 IGNORED_DIRS = {
     ".git", ".github", ".idea", "node_modules", "target",
-    "build", "out", "dist", "__pycache__",
+    "build", "out", "dist", "__pycache__", "Codeforces",
 }
 
 
