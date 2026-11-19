@@ -1,9 +1,12 @@
 # Codeforces Solutions
 
-This directory is reserved for Codeforces submissions.
+The dedicated Codeforces dashboard is maintained in the repository root.
 
-**Important:** Your current official CFPusher setup does not expose a destination-subfolder setting. With the decision to keep the official extension (no customized fork), it will continue pushing to the repository paths it currently generates. Existing Codeforces submissions have deliberately been left untouched.
+[![Open Codeforces Dashboard](https://img.shields.io/badge/OPEN-CODEFORCES%20DASHBOARD-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](../CODEFORCES_SOLUTIONS.md)
 
-- Existing Codeforces solutions remain in their current root-level contest folders.
-- This directory is ready for manually organized or future submissions only when their destination can be configured.
-- CFPusher currently owns the root [README.md](../README.md).
+- [View all unique Codeforces problems](../CODEFORCES_SOLUTIONS.md)
+- [Open Codeforces profile](https://codeforces.com/profile/PrakashChakali12)
+
+The dashboard lists each Codeforces problem once and links directly to its Codeforces statement and Java 21 solution. Other DSA platform problems are not included here.
+
+**Note:** Existing Codeforces solution folders remain in their current root-level contest paths to preserve the existing CFPusher submission layout.
