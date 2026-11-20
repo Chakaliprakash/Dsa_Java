@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 14 |
+| 15 | 15 |
 
 ---
 
@@ -16,15 +16,16 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [interactive](#interactive) (1)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -62,6 +63,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.java) |
+| 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/431/C%20-%20k-Tree/solution.java) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/455/A%20-%20Boredom/solution.java) |
 | 2133D | [Chicken Jockey](https://codeforces.com/contest/2133/problem/D) | 1900 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2133/D%20-%20Chicken%20Jockey/solution.java) |
 
@@ -92,6 +94,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/431/C%20-%20k-Tree/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2133/A%20-%20Redstone%3F/solution.java) |
 | 2134A | [Painting With Two Colors](https://codeforces.com/contest/2134/problem/A) | 800 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2134/A%20-%20Painting%20With%20Two%20Colors/solution.java) |
@@ -125,6 +128,12 @@
 |---|---------|------------|----------|
 | 230A | [Dragons](https://codeforces.com/contest/230/problem/A) | 1000 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/230/A%20-%20Dragons/solution.java) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/431/C%20-%20k-Tree/solution.java) |
 
 ### two pointers
 
