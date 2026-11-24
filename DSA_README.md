@@ -45,7 +45,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 41
+**Total problem folders:** 42
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -63,6 +63,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
 - [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
+- [Missing Number](./268-missing-number)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
 - [Find First And Last Position Of Element In Sorted Array](./34-find-first-and-last-position-of-element-in-sorted-array)
 - [Search Insert Position](./35-search-insert-position)
@@ -93,10 +94,10 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`3d845a6`](https://github.com/Chakaliprakash/Dsa_Java/commit/3d845a64c8d545e02fd0c0110a144dafa410950f)
-- **Problem:** [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
-- **Message:** Time: 1 ms (98.36%) \| Memory: 43.2 MB (66.76%) - LeetSync
-- **Date:** 2026-11-16T06:11:31+05:30
+- **Commit:** [`efa7bf8`](https://github.com/Chakaliprakash/Dsa_Java/commit/efa7bf83b1dd5c4cb392af5279efcb814a72c585)
+- **Problem:** [Missing Number](./268-missing-number)
+- **Message:** Time: 2 ms (22.03%) \| Memory: 46.9 MB (61.29%) - LeetSync
+- **Date:** 2026-11-24T06:12:55+05:30
 
 <!-- AUTO-README:END -->
 
