@@ -45,7 +45,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 42
+**Total problem folders:** 43
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -72,6 +72,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 - [Partition Equal Subset Sum](./416-partition-equal-subset-sum)
 - [Longest Repeating Character Replacement](./424-longest-repeating-character-replacement)
 - [Assign Cookies](./455-assign-cookies)
+- [Max Consecutive Ones](./485-max-consecutive-ones)
 - [Powx N](./50-powx-n)
 - [Base 7](./504-base-7)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
@@ -94,10 +95,10 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`76dcb64`](https://github.com/Chakaliprakash/Dsa_Java/commit/76dcb6423e8854819438c9a76d6d724d4040e820)
-- **Problem:** [Missing Number](./268-missing-number)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 46.7 MB (88.91%) - LeetSync
-- **Date:** 2026-11-24T06:15:35+05:30
+- **Commit:** [`021df37`](https://github.com/Chakaliprakash/Dsa_Java/commit/021df375089e9b77312c9e114ea9e37bd111dc46)
+- **Problem:** [Max Consecutive Ones](./485-max-consecutive-ones)
+- **Message:** Time: 3 ms (60.30%) \| Memory: 51.8 MB (94.69%) - LeetSync
+- **Date:** 2026-11-24T06:18:58+05:30
 
 <!-- AUTO-README:END -->
 
