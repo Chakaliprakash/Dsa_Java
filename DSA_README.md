@@ -45,7 +45,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 45
+**Total problem folders:** 46
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -76,6 +76,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 - [Max Consecutive Ones](./485-max-consecutive-ones)
 - [Powx N](./50-powx-n)
 - [Base 7](./504-base-7)
+- [Maximum Subarray](./53-maximum-subarray)
 - [Single Element In A Sorted Array](./540-single-element-in-a-sorted-array)
 - [Jump Game](./55-jump-game)
 - [Unique Paths](./62-unique-paths)
@@ -97,10 +98,10 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`99340ec`](https://github.com/Chakaliprakash/Dsa_Java/commit/99340ecda1e5e26b9d5b70b89ecb6af87a6717c6)
-- **Problem:** [Majority Element](./169-majority-element)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 62.1 MB (69.46%) - LeetSync
-- **Date:** 2026-11-26T06:21:36+05:30
+- **Commit:** [`8ae29a7`](https://github.com/Chakaliprakash/Dsa_Java/commit/8ae29a741544e56c660bee453700ad2e43b76980)
+- **Problem:** [Maximum Subarray](./53-maximum-subarray)
+- **Message:** Time: 1 ms (100.00%) \| Memory: 77 MB (47.64%) - LeetSync
+- **Date:** 2026-11-26T06:55:55+05:30
 
 <!-- AUTO-README:END -->
 
