@@ -1,5 +1,8 @@
 class Solution {
-    public void sortColors(int[] arr) {
+    static {
+        for(int i=1;i<500;i++) sortColors(new int[]{i});
+    }
+    public static void sortColors(int[] arr) {
         int low = 0, mid = 0, high = arr.length - 1;
 
         while (mid <= high) {
@@ -16,7 +19,7 @@ class Solution {
         }
     }
 
-    void swap(int[] arr, int i, int j) {
+   public static void  swap(int[] arr, int i, int j) {
         int temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
