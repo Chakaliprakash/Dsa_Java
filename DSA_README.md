@@ -96,10 +96,10 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`0e3e881`](https://github.com/Chakaliprakash/Dsa_Java/commit/0e3e8810d7600b7a0b3d2a750f26a875bdc32e24)
+- **Commit:** [`2be7739`](https://github.com/Chakaliprakash/Dsa_Java/commit/2be7739fbdb67ef9e3923d80965360369a928803)
 - **Problem:** [Sort Colors](./75-sort-colors)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 43.1 MB (51.32%) - LeetSync
-- **Date:** 2026-11-26T05:48:46+05:30
+- **Message:** Time: 0 ms (100.00%) \| Memory: 43.4 MB (34.01%) - LeetSync
+- **Date:** 2026-11-26T05:51:47+05:30
 
 <!-- AUTO-README:END -->
 
