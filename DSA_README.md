@@ -45,7 +45,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 43
+**Total problem folders:** 44
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -82,6 +82,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 - [Sqrtx](./69-sqrtx)
 - [Climbing Stairs](./70-climbing-stairs)
 - [Intersection Of Two Sorted Arrays](./706-intersection-of-two-sorted-arrays)
+- [Sort Colors](./75-sort-colors)
 - [Minimum Window Substring](./76-minimum-window-substring)
 - [Subsets](./78-subsets)
 - [Binary Search](./792-binary-search)
@@ -95,10 +96,10 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`d578c19`](https://github.com/Chakaliprakash/Dsa_Java/commit/d578c19fc50b40ff213c871473cf9711bd88ae38)
-- **Problem:** [Max Consecutive Ones](./485-max-consecutive-ones)
-- **Message:** Time: 1 ms (99.95%) \| Memory: 51.5 MB (97.99%) - LeetSync
-- **Date:** 2026-11-24T06:19:54+05:30
+- **Commit:** [`0e3e881`](https://github.com/Chakaliprakash/Dsa_Java/commit/0e3e8810d7600b7a0b3d2a750f26a875bdc32e24)
+- **Problem:** [Sort Colors](./75-sort-colors)
+- **Message:** Time: 0 ms (100.00%) \| Memory: 43.1 MB (51.32%) - LeetSync
+- **Date:** 2026-11-26T05:48:46+05:30
 
 <!-- AUTO-README:END -->
 
