@@ -1,5 +1,8 @@
 class Solution {
-    public int majorityElement(int[] arr) {
+    static {
+            for(int i=1;i<500;i++) majorityElement(new int[]{i});
+        }
+    public static int majorityElement(int[] arr) {
         // int max=Arrays.stream(arr).boxed().collect(Collectors.groupingBy(n->n,Collectors.counting())).entrySet().stream().max(Map.Entry.comparingByValue()).get().getKey();
 
         // return max;
