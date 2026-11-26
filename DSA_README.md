@@ -45,7 +45,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 44
+**Total problem folders:** 45
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -57,6 +57,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 - [Longest Consecutive Sequence](./128-longest-consecutive-sequence)
 - [Find Peak Element](./162-find-peak-element)
 - [Kth Missing Positive Number](./1646-kth-missing-positive-number)
+- [Majority Element](./169-majority-element)
 - [House Robber](./198-house-robber)
 - [Count Good Numbers](./2050-count-good-numbers)
 - [House Robber Ii](./213-house-robber-ii)
@@ -96,10 +97,10 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`2be7739`](https://github.com/Chakaliprakash/Dsa_Java/commit/2be7739fbdb67ef9e3923d80965360369a928803)
-- **Problem:** [Sort Colors](./75-sort-colors)
-- **Message:** Time: 0 ms (100.00%) \| Memory: 43.4 MB (34.01%) - LeetSync
-- **Date:** 2026-11-26T05:51:47+05:30
+- **Commit:** [`0c6d6fd`](https://github.com/Chakaliprakash/Dsa_Java/commit/0c6d6fd831ef16dea228c6473b126de6772dac10)
+- **Problem:** [Majority Element](./169-majority-element)
+- **Message:** Time: 36 ms (5.31%) \| Memory: 61.2 MB (70.11%) - LeetSync
+- **Date:** 2026-11-26T06:00:35+05:30
 
 <!-- AUTO-README:END -->
 
