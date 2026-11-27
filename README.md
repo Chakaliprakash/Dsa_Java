@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 15 |
+| 17 | 16 |
 
 ---
 
@@ -14,16 +14,17 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
+- [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [geometry](#geometry) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [implementation](#implementation) (7)
 - [interactive](#interactive) (1)
 - [math](#math) (4)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [trees](#trees) (1)
 - [two pointers](#two-pointers) (1)
@@ -45,6 +46,12 @@
 | 2133A | [Redstone?](https://codeforces.com/contest/2133/problem/A) | 800 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2133/A%20-%20Redstone%3F/solution.java) |
 | 2134C | [Even Larger](https://codeforces.com/contest/2134/problem/C) | 1200 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2134/C%20-%20Even%20Larger/solution.java) |
 
+### combinatorics
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.java) |
+
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
@@ -63,6 +70,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.java) |
+| 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.java) |
 | 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/431/C%20-%20k-Tree/solution.java) |
 | 455A | [Boredom](https://codeforces.com/contest/455/problem/A) | 1500 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/455/A%20-%20Boredom/solution.java) |
 | 2133D | [Chicken Jockey](https://codeforces.com/contest/2133/problem/D) | 1900 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2133/D%20-%20Chicken%20Jockey/solution.java) |
@@ -88,6 +96,7 @@
 | 2133B | [Villagers](https://codeforces.com/contest/2133/problem/B) | 800 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2133/B%20-%20Villagers/solution.java) |
 | 2133D | [Chicken Jockey](https://codeforces.com/contest/2133/problem/D) | 1900 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2133/D%20-%20Chicken%20Jockey/solution.java) |
 | 2134C | [Even Larger](https://codeforces.com/contest/2134/problem/C) | 1200 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2134/C%20-%20Even%20Larger/solution.java) |
+| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | 800 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
 
 ### implementation
 
@@ -120,6 +129,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 414B | [Mashmokh and ACM](https://codeforces.com/contest/414/problem/B) | 1400 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/414/B%20-%20Mashmokh%20and%20ACM/solution.java) |
 | 2134B | [Add 0 or K](https://codeforces.com/contest/2134/problem/B) | 1200 | [Java 21](https://github.com/Chakaliprakash/Dsa_Java/blob/HEAD/2134/B%20-%20Add%200%20or%20K/solution.java) |
 
 ### sortings
