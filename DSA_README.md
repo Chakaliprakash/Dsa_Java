@@ -45,7 +45,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 📚 Automatically Updated Problems
 
-**Total problem folders:** 46
+**Total problem folders:** 47
 
 <!-- Problem links are generated from folders containing Java files. -->
 
@@ -63,6 +63,7 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 - [House Robber Ii](./213-house-robber-ii)
 - [Contains Duplicate](./217-contains-duplicate)
 - [Generate Parentheses](./22-generate-parentheses)
+- [Rearrange Array Elements By Sign](./2271-rearrange-array-elements-by-sign)
 - [Find Subarrays With Equal Sum](./2480-find-subarrays-with-equal-sum)
 - [Missing Number](./268-missing-number)
 - [Search In Rotated Sorted Array](./33-search-in-rotated-sorted-array)
@@ -98,10 +99,10 @@ Browse the automatically maintained problem index below. The DSA GitHub Actions 
 
 ## 🔄 Latest Commit
 
-- **Commit:** [`ce121f3`](https://github.com/Chakaliprakash/Dsa_Java/commit/ce121f35b3710649223fbdd3aff9968aadc49c69)
-- **Problem:** [Maximum Subarray](./53-maximum-subarray)
-- **Message:** Time: 1 ms (100.00%) \| Memory: 77.4 MB (13.81%) - LeetSync
-- **Date:** 2026-11-26T06:56:41+05:30
+- **Commit:** [`f3dd138`](https://github.com/Chakaliprakash/Dsa_Java/commit/f3dd1382fbe7ceec5cdd938dfabd18bb75ab4ae3)
+- **Problem:** [Rearrange Array Elements By Sign](./2271-rearrange-array-elements-by-sign)
+- **Message:** Time: 4 ms (58.83%) \| Memory: 175.2 MB (49.19%) - LeetSync
+- **Date:** 2026-11-27T07:28:28+05:30
 
 <!-- AUTO-README:END -->
 
